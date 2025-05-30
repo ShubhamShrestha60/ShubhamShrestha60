@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @ShubhamShrestha60  
 - 💞️ I’m open to collaborating on development projects that challenge and grow my skills.  
 - 📫 Reach me at: shrestha.subham.60@gmail.com  
-- 😄 Pronouns: He/Him  
