@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello Dosto 👋  
+# Hello Friends 👋  
 ## I'm **Shubham Shrestha** 🚀
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=DevOps+Engineer;Cloud+%26+Kubernetes+Enthusiast;CI%2FCD+Automation+Specialist;Linux+%7C+NGINX+%7C+Containers)](https://git.io/typing-svg)
