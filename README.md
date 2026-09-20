@@ -1,105 +1,259 @@
 <div align="center">
 
-# Hello Friends 👋  
-## I'm **Shubham Shrestha** 🚀
+# Shubham Shrestha
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=DevOps+Engineer;Cloud+%26+Kubernetes+Enthusiast;CI%2FCD+Automation+Specialist;Linux+%7C+NGINX+%7C+Containers)](https://git.io/typing-svg)
+**DevOps Engineer · Kubernetes · Linux · Infrastructure Automation**
 
-</div>
+I build, deploy, and troubleshoot production systems —
+from containerized applications and Kubernetes workloads to CI/CD pipelines, reverse proxies, monitoring, and Linux infrastructure.
 
----
-
-## 🚀 About Me
-
-I'm a **DevOps Engineer** passionate about building **scalable, secure, and automated infrastructure**.  
-I enjoy working close to production systems — **deploying, monitoring, fixing, and improving them continuously**.
-
-- 🔭 Working on **containerized & Kubernetes-based deployments**
-- 🌱 Learning **advanced Kubernetes, networking, and system design**
-- 👯 Looking to collaborate on **DevOps & open-source projects**
-- 💬 Ask me about **Linux, Docker, Kubernetes, CI/CD, NGINX**
-- ⚡ Fun fact: I love **breaking systems just to understand them better**
-
----
-
-## 🛠️ Tech Stack
-
-### **DevOps, Cloud & Containers**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/helm/icon/color/helm-icon-color.svg" width="40" height="40"/>
+<p>
+  <a href="https://github.com/ShubhamShrestha60">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/shubham-shrestha-32870325a">LinkedIn</a> ·
+  <a href="https://shubham-shrestha.com.np">Website</a>
 </p>
 
-### **CI/CD & Automation**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yaml/yaml-original.svg" width="40" height="40"/>
-</p>
-
-### **Servers, Networking & Web**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-</p>
-
-### **Monitoring & Observability**
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamShrestha60&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamShrestha60&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamShrestha60&theme=tokyonight&hide_border=true" width="400"/>
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## What I Work On
+
+I work primarily around the infrastructure layer — taking applications from **source code to running services** and keeping them reliable after deployment.
+
+```text
+Application
+    │
+    ▼
+Git ── CI/CD ── Container Build ── Registry
+                                      │
+                                      ▼
+                              Docker / Kubernetes
+                                      │
+                         ┌────────────┼────────────┐
+                         ▼            ▼            ▼
+                      Ingress      Services     Storage
+                         │
+                         ▼
+                  Monitoring / Logs
+```
+
+My day-to-day interests are around:
+
+* Linux server administration
+* Docker & containerized workloads
+* Kubernetes / K3s
+* CI/CD pipelines
+* Reverse proxies & TLS
+* Container registries
+* DNS & networking
+* Monitoring & observability
+* Backup and recovery
+* Infrastructure troubleshooting
+* Bash automation
+
+---
+
+## Current Stack
+
+### Infrastructure
+
+`Linux` `Docker` `Kubernetes` `K3s` `Docker Swarm`
+
+### CI/CD & Delivery
+
+`Git` `GitLab` `Jenkins` `Argo CD` `Harbor`
+
+### Networking & Edge
+
+`Caddy` `NGINX` `Cloudflare` `DNS` `TLS`
+
+### Observability
+
+`Prometheus` `Grafana` `Loki` `Alertmanager` `Dozzle`
+
+### Automation & Systems
+
+`Bash` `YAML` `Python` `Go` `systemd` `Supervisor`
+
+### Databases & Operations
+
+`PostgreSQL` `pgBackRest` `WAL` `auditd`
+
+---
+
+## Selected Projects
+
+### `Production Infrastructure Lab`
+
+A production-style infrastructure environment built to understand the complete lifecycle of modern application delivery.
+
+**Focus**
+
+* Kubernetes / K3s workloads
+* Ingress and TLS termination
+* Git-based deployments
+* Container registries
+* Prometheus + Grafana monitoring
+* Centralized logging
+* Application troubleshooting
+* Resource and node management
+
+**Stack**
+
+`K3s` `Docker` `Argo CD` `Harbor` `NGINX` `Prometheus` `Grafana` `Loki`
+
+---
+
+### `Go Deployment Platform`
+
+A Go application evolved into a complete deployment project rather than remaining a standalone application.
+
+The goal is to demonstrate the infrastructure surrounding a real application:
+
+```text
+Developer
+    │
+    ▼
+Git
+    │
+    ▼
+CI Pipeline
+    │
+    ├── Test
+    ├── Build
+    └── Containerize
+            │
+            ▼
+       Container Registry
+            │
+            ▼
+       Kubernetes / K3s
+            │
+       ┌────┴────┐
+       ▼         ▼
+    Ingress   PostgreSQL
+       │
+       ▼
+    Application
+       │
+       ▼
+Monitoring + Logs
+```
+
+**Stack**
+
+`Go` `Docker` `GitLab CI` `Kubernetes` `PostgreSQL` `Prometheus` `Grafana`
+
+---
+
+### `Production Backup & Recovery`
+
+A PostgreSQL backup and recovery workflow designed around operational safety rather than simply creating database dumps.
+
+**Focus**
+
+* pgBackRest
+* WAL archiving
+* Point-in-time recovery
+* Backup verification
+* Restore workflows
+* Interactive recovery tooling
+* Reducing operator error during recovery
+
+**Stack**
+
+`PostgreSQL` `pgBackRest` `WAL` `Bash` `Linux`
+
+---
+
+### `Infrastructure Automation`
+
+A collection of scripts and operational tooling for repetitive infrastructure tasks.
+
+Examples include:
+
+* deployment helpers
+* service management
+* configuration validation
+* log investigation
+* Docker cleanup
+* backup workflows
+* server diagnostics
+* production troubleshooting utilities
+
+The goal is simple:
+
+> Turn repeatable operational work into repeatable commands.
+
+---
+
+## Engineering Interests
+
+I'm currently going deeper into:
+
+```text
+Linux
+  ├── Processes
+  ├── Networking
+  ├── Storage
+  ├── Permissions
+  └── System internals
+
+Kubernetes
+  ├── Networking
+  ├── Scheduling
+  ├── Storage
+  ├── Ingress
+  ├── Security
+  └── Troubleshooting
+
+Infrastructure
+  ├── High availability
+  ├── Observability
+  ├── Backups
+  ├── Disaster recovery
+  └── Infrastructure as Code
+```
+
+I'm particularly interested in understanding **why infrastructure behaves the way it does**, rather than relying on commands without understanding the underlying system.
+
+---
+
+## GitHub
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShubhamShrestha60&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ShubhamShrestha60&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamShrestha60&layout=compact&hide_border=true" height="170"/>
+
 </div>
 
 ---
 
-## 📈 Activity Graph
+## Let's Connect
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamShrestha60&theme=tokyo-night&hide_border=true"/>
+
+<a href="https://github.com/ShubhamShrestha60">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/shubham-shrestha-32870325a">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://shubham-shrestha.com.np">
+<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
+
 </div>
 
 ---
 
-## 🌐 Connect With Me
-
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/ShubhamShrestha60)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shubham-shrestha-32870325a)
-[![Email](https://img.shields.io/badge/Email-shrestha.subham.60@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:shrestha.subham.60@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 “Automate everything. Understand systems deeply. Own production.”
-
-![Profile Views](https://komarev.com/ghpvc/?username=ShubhamShrestha60&color=brightgreen&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/ShubhamShrestha60?label=Follow&style=social)](https://github.com/ShubhamShrestha60)
+**Build it. Break it. Understand it. Automate it.**
 
 </div>
