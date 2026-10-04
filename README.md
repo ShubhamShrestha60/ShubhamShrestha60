@@ -4,7 +4,7 @@
   <img alt="Shubham Shrestha, DevOps Engineer" src="assets/hero-light.svg" width="100%">
 </picture>
 
-I work on containerized workloads, delivery pipelines, and the Linux fundamentals underneath them. I learn by taking systems apart on purpose.
+I work on containerized workloads, delivery pipelines, and the Linux fundamentals underneath them. I learn by taking systems apart on purpose. More at [shubham-shrestha.com.np](https://shubham-shrestha.com.np).
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/now-dark.svg">
@@ -32,7 +32,11 @@ I work on containerized workloads, delivery pipelines, and the Linux fundamental
 
 <br/>
 
-<a href="https://github.com/ShubhamShrestha60"><picture>
+<a href="https://shubham-shrestha.com.np"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/btn-website-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/btn-website-light.svg">
+  <img alt="Website" src="assets/btn-website-light.svg" height="42">
+</picture></a>&nbsp;&nbsp;<a href="https://github.com/ShubhamShrestha60"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/btn-github-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/btn-github-light.svg">
   <img alt="GitHub" src="assets/btn-github-light.svg" height="42">
