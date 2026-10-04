@@ -1,22 +1,16 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img alt="Shubham Shrestha, DevOps Engineer" src="assets/header-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
+  <img alt="Shubham Shrestha, DevOps Engineer" src="assets/hero-light.svg" width="100%">
 </picture>
 
-<br/>
+I work on containerized workloads, delivery pipelines, and the Linux fundamentals underneath them. I learn by taking systems apart on purpose.
 
-I work on containerized workloads, delivery pipelines, and the Linux fundamentals underneath them. I learn by taking systems apart: break it in staging, understand it in production.
-
-**Now**
-
-- Shipping containerized workloads onto Kubernetes
-- Going deeper on cluster networking and system design
-- Hardening CI/CD pipelines until they stop paging people
-
-<br/>
-
-### Delivery
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/now-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/now-light.svg">
+  <img alt="What I am working on now: Kubernetes, networking, pipelines" src="assets/now-light.svg" width="100%">
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/pipeline-dark.svg">
@@ -24,23 +18,30 @@ I work on containerized workloads, delivery pipelines, and the Linux fundamental
   <img alt="Delivery pipeline: commit, build, verify, ship, deploy, run, observe" src="assets/pipeline-light.svg" width="100%">
 </picture>
 
-<br/>
-
-### Toolkit
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/toolkit-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/toolkit-light.svg">
-  <img alt="Toolkit: Docker, Kubernetes, Helm, Git, Jenkins, Bash, Linux, NGINX, Apache, Prometheus, Grafana" src="assets/toolkit-light.svg" width="100%">
+  <img alt="Toolkit: Docker, Kubernetes, Helm, Git, GitHub, Jenkins, Bash, YAML, Linux, NGINX, Apache, Prometheus, Grafana" src="assets/toolkit-light.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/principles-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/principles-light.svg">
+  <img alt="Principles" src="assets/principles-light.svg" width="100%">
 </picture>
 
 <br/>
 
-### Contact
-
-[GitHub](https://github.com/ShubhamShrestha60) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/shubham-shrestha-32870325a) &nbsp;·&nbsp; [Email](mailto:shrestha.subham.60@gmail.com)
-
-<!--
-Selected work: add two or three pinned repos on your GitHub profile itself
-(Customize your pins), rather than embedding stat cards here.
--->
+<a href="https://github.com/ShubhamShrestha60"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/btn-github-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/btn-github-light.svg">
+  <img alt="GitHub" src="assets/btn-github-light.svg" height="42">
+</picture></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/shubham-shrestha-32870325a"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/btn-linkedin-light.svg">
+  <img alt="LinkedIn" src="assets/btn-linkedin-light.svg" height="42">
+</picture></a>&nbsp;&nbsp;<a href="mailto:shrestha.subham.60@gmail.com"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/btn-email-light.svg">
+  <img alt="Email" src="assets/btn-email-light.svg" height="42">
+</picture></a>
